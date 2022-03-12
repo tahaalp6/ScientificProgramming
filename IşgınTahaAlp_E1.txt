@@ -1,1 +1,5 @@
 https://nbviewer.org/github/tahaalp6/ScientificProgramming/blob/main/20160808032_TahaAlpI%C5%9Fg%C4%B1n_HW1.ipynb
+
+https://nbviewer.org/github/tahaalp6/ScientificProgramming/tree/main/hangman-master/
+
+https://github.com/tahaalp6/ScientificProgramming/blob/main/script1.py
