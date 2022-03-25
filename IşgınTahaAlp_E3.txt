@@ -1,0 +1,3 @@
+https://nbviewer.org/github/tahaalp6/ScientificProgramming/blob/main/HW3.ipynb
+
+https://nbviewer.org/github/tahaalp6/ScientificProgramming/tree/main/Markov-chain/
